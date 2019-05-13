@@ -7,3 +7,4 @@ Para executar o projeto após o download, execute no terminal os seguintes coman
 * bundle install
 
 * rails db:migrate
+# lojinha
